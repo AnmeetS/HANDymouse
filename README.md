@@ -24,7 +24,7 @@ I'm not stopping here; my roadmap includes:
 
 - Incorporating additional features like face detection, face landmark detection, and pose detection using Mediapipe.
 - Exploring other ML solutions beyond computer vision, such as incorporating voice recognition into the project.
-- Integrating the current functionality into my (personal website)[https://anmeetsekhon.com] to allow users to interact with 3D models.
+- Integrating the current functionality into my personal website (https://anmeetsekhon.com) to allow users to interact with 3D models.
 
 
 ## Try it out for yourself 👍
