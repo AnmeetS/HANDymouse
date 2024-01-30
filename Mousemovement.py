@@ -3,7 +3,6 @@ import Handtracking as ht
 import time
 import autopy
 import numpy as np
-import threading
 
 ######## Variable Initialization ###############
 prevTime=0
@@ -21,7 +20,7 @@ camHeight=400
 camWidth=640
 screenWidth, screenHeight=autopy.screen.size()
 frameReduction=100
-cap=cv2.VideoCapture(1)
+cap=cv2.VideoCapture(1) ## Edit This Value Based on Video Capture Source (Usually 0) ##
 cap.set(3,camWidth)
 cap.set(4,camHeight)
 
